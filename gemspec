@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'lechat'
+  s.name        = 'lechat-rb'
   s.version     = '0.0.1'
   s.date        = '2013-02-22'
   s.summary     = "Simple gem for posting to lechat.im"
@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Rich Corbridge"]
   s.email       = 'rich.corbridge@gmail.com'
   s.files       = ["lib/lechat.rb"]
-  s.homepage    = 'http://github.com/richcorbs/lechat'
+  s.homepage    = 'http://github.com/richcorbs/lechat-rb'
   s.add_runtime_dependency "json"
 end
 
