@@ -8,5 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'rich.corbridge@gmail.com'
   s.files       = ["lib/lechat.rb"]
   s.homepage    = 'http://github.com/richcorbs/lechat'
+  s.add_runtime_dependency "json"
 end
 
