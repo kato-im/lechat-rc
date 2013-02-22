@@ -20,5 +20,8 @@ That's it. Very simple. It uses net/https and the json gem to format and send th
 
 ## Requirements
 
-The only external requirement that lechat-rb has is the json gem.
+The requirements to use lechat-rb are:
+
+- Lechat-rb depends on the json gem.
+- You will need to know your room id. You can get it within lechat.im on the room configuration popup's integration tab.
 
