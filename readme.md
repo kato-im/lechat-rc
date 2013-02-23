@@ -6,7 +6,7 @@ Lechat-rc is a simple Ruby gem to post messages to a chat room at the awesome le
 
 ```
 # Add to Gemfile
-gem 'lechat-rb'
+gem 'lechat-rc'
 
 # Run
 bundle install
