@@ -2,9 +2,25 @@
 
 Lechat-rc is a simple Ruby gem to post messages to a chat room at the awesome lechat.im. I'm not affiliated with LeChat in any way and creating a gem was a learning experience for me.
 
+## Installation
+
+```
+# Add to Gemfile
+gem 'lechat-rb'
+
+# Run
+bundle install
+```
+
+OR
+
+```
+gem install lechat-rc
+```
+
 ## Usage
 
-Here is how to use lechat-rc in your code.
+Here is how to use lechat-rc in your code after installing the gem.
 
 ```
 # NOTE: For Ruby 1.8.x you need "require 'rubygems'".
