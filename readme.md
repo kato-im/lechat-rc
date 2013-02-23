@@ -7,6 +7,8 @@ Lechat-rb is a simple Ruby gem to post messages to a chat room at the awesome le
 Here is how to use lechat-rb in your code.
 
 ```
+# NOTE: You need "require 'rubygems'" if you are using ruby 1.8.
+#require 'rubygems'
 require 'lechat-rb'
 
 room = 'room-id-from-lechat-room-integration-configuration'
