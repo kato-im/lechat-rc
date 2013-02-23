@@ -14,7 +14,9 @@ class Lechat
     request.body = JSON.generate({"from" => from,"text" => text})
     response = http.request(request)
 
-    if response.code != 204
+    puts response.code
+
+    if response.code != "204"
       raise "Something went wrong. You received a #{response.code} back from lechat."
     end
   end
