@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'lechat-rb'
-  s.version     = '0.0.1'
+  s.version     = '0.0.3'
   s.date        = '2013-02-22'
   s.summary     = "Simple gem for posting to lechat.im"
   s.description = "Simple gem for posting to lechat.im using net/https and json"
