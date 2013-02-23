@@ -9,7 +9,7 @@ Here is how to use lechat-rc in your code.
 ```
 # NOTE: You need "require 'rubygems'" if you are using ruby 1.8.
 #require 'rubygems'
-require 'lechat'
+require 'lechat-rc'
 
 room = 'room-id-from-lechat-room-integration-configuration'
 from = 'the-name-you-want-the-message-to-be-from'
