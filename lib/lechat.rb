@@ -17,6 +17,7 @@ class Lechat
     if response.code != "204"
       raise "Something went wrong. You received a #{response.code} back from lechat."
     end
+
   end
 
 end

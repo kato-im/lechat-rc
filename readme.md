@@ -1,6 +1,6 @@
 # Lechat-rb
 
-Lechat-rb is a simple Ruby gem to post messages to a chat room at the awesome lechat.im. I'm not affiliated with letchat in any way and creating a gem was a learning experience for me.
+Lechat-rb is a simple Ruby gem to post messages to a chat room at the awesome lechat.im. I'm not affiliated with LeChat in any way and creating a gem was a learning experience for me.
 
 ## Usage
 
