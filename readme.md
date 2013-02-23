@@ -24,7 +24,7 @@ Here is how to use lechat-rc in your code after installing the gem.
 
 ```
 # NOTE: For Ruby 1.8.x you need "require 'rubygems'".
-#require 'rubygems'
+# require 'rubygems'
 require 'lechat-rc'
 
 room = 'room-id-from-lechat-room-integration-configuration'
